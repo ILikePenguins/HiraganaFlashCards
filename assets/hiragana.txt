@@ -1,0 +1,21 @@
+﻿
+A あ
+E え
+I い
+O お
+U う
+KA か
+KI き
+KE け
+KO こ
+KU く
+SA さ
+SHI し
+SE せ
+SO そ
+SU す
+TA た
+CHI ち
+TE て
+TO と
+TSU つ
