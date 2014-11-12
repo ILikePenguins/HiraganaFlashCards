@@ -8,6 +8,23 @@
         android:id="@+id/tvKatakana"
         android:layout_width="159dp"
         android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:layout_marginLeft="120dp"
+        android:textSize="32sp"
         android:text="TextView" />
+
+    <Button
+        android:id="@+id/buNext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:text="Next" />
+
+    <Button
+        android:id="@+id/buShowAnswer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:text="Show answer" />
 
 </LinearLayout>
